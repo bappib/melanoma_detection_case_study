@@ -53,6 +53,8 @@ However model is trained on 20 epochs, which don't infer proper conclusion
     - pigmented benign keratosis classes having the highest proportionate in terms number of samples
 - Conclusion 4 from the analysis
 
+
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -73,6 +75,8 @@ Give credit here.
 ## Contact
 Created by @bappib - feel free to contact me
 
+## Notes 
+Google Collab notebook times-out and takes ages to build & train model. Could not get output of Model Training and subsequent execution of code output like Visualising Model Training results, Class Imbalance distribution SNS barplot etc. due to running out of GPU in google Collab
 
 <!-- Optional -->
 <!-- ## License -->
